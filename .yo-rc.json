@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8282,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.4.1",
+    "jwtSecretKey": "ZjA3NmUxMjQ2OGFkYzg3NGQ0ZWZkOGE5NTE2NTJiNzFlMjNkZjgyZWVlYTQzNjU1MTFmZGU0ZWFlMzkyZWNiYWE2Y2FiYmVlNjQ4YmUxMmM5M2Q4ODU5MDZhYmM4NzYwMzdlMjQ3ZDU0MjEzODNmNzc4YWNmNWEyNTBlOGE3Nzc="
+  },
+  "git-provider": "GitHub",
+  "git-company": "reynoldsblair",
+  "repository-name": "jhipster-sample-application"
+}
